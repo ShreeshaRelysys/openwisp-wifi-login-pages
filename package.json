@@ -130,14 +130,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openwisp/openwisp-wifi-login-pages.git"
+    "url": "git+https://github.com/ShreeshaRelysys/openwisp-wifi-login-pages.git"
   },
   "author": "",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/openwisp/openwisp-wifi-login-pages/issues"
+    "url": "https://github.com/ShreeshaRelysys/openwisp-wifi-login-pages/issues"
   },
-  "homepage": "https://github.com/openwisp/openwisp-wifi-login-pages#readme",
+  "homepage": "https://github.com/ShreeshaRelysys/openwisp-wifi-login-pages#readme",
   "jest": {
     "testEnvironment": "jsdom",
     "setupFilesAfterEnv": [
